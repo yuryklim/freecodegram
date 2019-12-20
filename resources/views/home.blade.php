@@ -18,5 +18,16 @@
             <div><a href="#">www.freecodecamp.org</a></div>
         </div>
     </div>
+    <div class="row pt-5">
+        <div class="col-4">
+            <img src="https://instagram.fdnk1-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.40.823.823a/s640x640/72292509_1278992565617687_88713384388543519_n.jpg?_nc_ht=instagram.fdnk1-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=jazr0oEPRIMAX_g6VG8&oh=95fd56dafd6f55a5ebe086ee3fd22f7b&oe=5E7D4751" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.fdnk1-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.40.823.823a/s640x640/72292509_1278992565617687_88713384388543519_n.jpg?_nc_ht=instagram.fdnk1-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=jazr0oEPRIMAX_g6VG8&oh=95fd56dafd6f55a5ebe086ee3fd22f7b&oe=5E7D4751" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.fdnk1-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.40.823.823a/s640x640/72292509_1278992565617687_88713384388543519_n.jpg?_nc_ht=instagram.fdnk1-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=jazr0oEPRIMAX_g6VG8&oh=95fd56dafd6f55a5ebe086ee3fd22f7b&oe=5E7D4751" class="w-100">
+        </div>
+    </div>
 </div>
 @endsection
